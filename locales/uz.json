@@ -1,0 +1,187 @@
+{
+  "navbar": {
+    "Product": "Mahsulot",
+    "Solutions": "Yechimlar",
+    "Resources": "Resurslar",
+    "Enterprise": "Kompaniya",
+    "Pricing": "Narxlar",
+    "EN": "UZ",
+    "Contact Sales": "Savdo bo‘limi bilan bog‘lanish",
+    "Sign up free": "Bepul ro‘yxatdan o‘tish"
+  },
+  "hero": {
+    "Take ideas from better to best": "G‘oyalarni yaxshidan zo‘rga olib boring",
+    "Miro is your team's visual platform to connect, collaborate, and create — together.": "Miro — bu jamoangizni bog‘laydigan, hamkorlik qilish va birga yaratish uchun vizual platformadir.",
+    "Enter your work email": "Ishchi emailingizni kiriting",
+    "Sign up free": "Bepul ro‘yxatdan o‘ting",
+    "Collaborate with your team within minutes": "Jamoangiz bilan bir necha daqiqada hamkorlik qiling",
+    "Based on 5149+ reviews": "5149+ sharhlar asosida baholangan"
+  },
+  "logos": {
+    "Trusted by 45M+ users": "45 milliondan ortiq foydalanuvchi tomonidan ishonchli"
+  },
+  "h1": "Usiz hamkorlik qiling cheklovlar",
+  "collaborate": [
+    {
+      "title": "Abadiy bepul",
+      "about": "Bizning bepul rejamiz sizga cheksiz jamoa a'zolari, 3 ta kengash va 300 dan ortiq mutaxassislar tomonidan yaratilgan shablonlarni taqdim etadi. Ishchi e-pochtangiz bilan roʻyxatdan oʻtish jamoangizni tezroq jalb qilish imkonini beradi. Qo'shimcha xususiyatlar uchun narx rejalarimizni ko'ring."
+    },
+    {
+      "title": "Oson integratsiya",
+      "about": "Miro siz allaqachon ishlatadigan G Suite, Slack va Jira kabi vositalar bilan 100 dan ortiq kuchli integratsiyalarga ega, shuning uchun ish jarayoni muammosiz. To'liq ro'yxatni bizning bozorimizda ko'ring ."
+    },
+    {
+      "title": "Birinchi navbatda xavfsizlik",
+      "about": "Biz sizning ma'lumotlaringizga xuddi siz kabi - juda ehtiyotkorlik bilan munosabatda bo'lamiz. Biz sanoatning yetakchi xavfsizlik standartlariga amal qilamiz va sizga intellektual mulkni himoya qilish vositalarini taqdim etamiz. Batafsil ma’lumotni Ishonch markazimizdan oling ."
+    }
+  ],
+  "Section1": {
+    "learn more": "Batafsil ma'lumot",
+    "1": {
+      "title": "Qayerda ishlasangiz ham birga ishlang",
+      "text": "Ofisda, masofaviy yoki ikkalasining aralashmasi, Miro bilan jamoangiz qayerda bo'lishingizdan qat'i nazar, bir joyda ulanishi, hamkorlik qilishi va birgalikda yaratishi mumkin."
+    },
+    "2": {
+      "title": "Asboblaringizni ulang, yorliqlaringizni yoping",
+      "text": "Google Docs-ni tahrirlashni, Jira muammolarini hal qilishni yoki Zoom orqali hamkorlik qilishni xohlaysizmi, Miro siz ishlatadigan va yoqtiradigan vositalar bilan 100 dan ortiq integratsiyaga ega."
+    }
+  },
+  "Main Section": {
+    "first comp": {
+      "main": "Siz ishlashingiz uchun yaratilgan",
+      "title": "Aqliy hujum",
+      "text": "Yopishqoq eslatmalar, tasvirlar, aql xaritalari, videolar, chizish qobiliyatlari yordamida ijodiy g'oyalarni oching va ularga asoslang - ro'yxat davom etadi.",
+      "arr": [
+        "Aqliy hujum",
+        "Diagramma tuzish",
+        "Uchrashuvlar va seminarlar",
+        "Scrum voqealari",
+        "Xaritalash",
+        "Tadqiqot va dizayn",
+        "Strategik rejalashtirish"
+      ]
+    },
+    "second comp": {
+      "main": "Barcha turdagi jamoalar uchun yaratilgan",
+      "ul": {
+        "li1": "Kam quvvatli simli ramkalar yarating",
+        "li2": "Dizayn jarayoniga manfaatdor tomonlarni jalb qiling",
+        "li3": "Qiziqarli dizayn seminarlarini o'tkazing"
+      },
+      "title": "Sevimli vositalaringizni birlashtiring",
+      "arr": [
+        "UX va dizayn",
+        "Marketing",
+        "Mahsulotni boshqarish",
+        "Muhandislik",
+        "Maslahatchilar",
+        "Aqil murabbiylar",
+        "Sotish"
+      ]
+    }
+  },
+  "Yellow section": {
+    "title": "Nima uchun katta va kichik kompaniyalar Miroga ishonishadi",
+    "underline": "Demo so'rash uchun Sotuvlar bilan bog'laning",
+    "data": [
+      {
+        "title": "ISO",
+        "text": "ISO-27001 korporativ darajadagi xavfsizlikka mos keladi"
+      },
+      {
+        "title": "#1",
+        "text": "G2 da vizual hamkorlik platformasi"
+      },
+      {
+        "title": "99%",
+        "text": "Fortune 100 ning mijozlari"
+      },
+      {
+        "title": "1,000+",
+        "text": "hamjamiyat va mutaxassislar tomonidan yaratilgan andozalar"
+      },
+      {
+        "title": "45M+",
+        "text": "butun dunyo bo'ylab foydalanuvchilar"
+      },
+      {
+        "title": "100+",
+        "text": "texnologiya hamkorlari bilan integratsiya"
+      }
+    ]
+  },
+  "Cards": {
+    "title": "Dunyoning eng yaxshi jamoalari tomonidan sevilgan",
+    "button": "Barcha mijozlar hikoyalarini ko'ring",
+    "card1": {
+      "text": "“Pandemiya avj olganida, shaxsiy hamkorlikda rivojlanayotganlar bizning ijodkorligimiz va unumdorligimiz yomonlashishidan xavotirda edilar. Miro bizga masofadan turib hamkorlik qilish, doskada ishlash va retrospektivlarda yordam berish uchun mukammal vosita edi.”",
+      "job": "VMware kompaniyasining dizayn guruhi rahbari"
+    },
+    "card2": {
+      "text": "“Miro mahsulot dizaynidagi asosiy kamchiliklardan birini hal qilishga yordam beradi: loyihalari turli vositalarda bo'lgan mahsulot dizaynerlari bo'ylab vazifalarni qanday boshqarish kerak.”",
+      "job": "DocuSign dizayn bo'limi boshlig'i"
+    },
+    "card3": {
+      "text": "“Miro-dan foydalanganimiz uchun biz skeptitsizmdan e'tiqodga innovatsiyaga o'tdik va endi biz qilayotgan ishimizning asosini tashkil etadigan va kelajakda ham davom etadigan vositaga egamiz.”",
+      "job": "Qurbaqada dizayn direktori yordamchisi"
+    }
+  },
+  "Sts": {
+    "title": "Bugun 45 milliondan ortiq foydalanuvchilarga qoʻshiling",
+    "p1": "Bepul boshlang - istalgan vaqtda yangilang.",
+    "p2": "Tashkilot sifatida qo'shilasizmi? Sotuvga murojaat qiling"
+  },
+  "footer": {
+    "Product": "Mahsulot",
+    "Solutions": "Yechimlar",
+    "Resources": "Resurslar",
+    "Company": "Kompaniya",
+    "Plans and Pricing": "Narxlar rejasi",
+    "Online whiteboard": "Onlayn doska",
+    "Apps & Integrations": "Ilovalar va Integratsiyalar",
+    "Templates": "Shablonlar",
+    "Miroverse": "Miroverse",
+    "Miro Developer Platform": "Miro Dasturchi Platformasi",
+    "Miro for Devices": "Miro Qurilmalar uchun",
+    "Security & Compliance": "Xavfsizlik va Moslik",
+    "Accessibility": "Imkoniyatlar",
+    "Changelog": "O‘zgarishlar",
+    "View demo →": "Demoni ko‘rish →",
+    "Meetings and Workshops": "Uchrashuvlar va Treninglar",
+    "Brainstorming & Ideation": "Brainstorming va G‘oyalar",
+    "Agile Workflows": "Agile Ish jarayonlari",
+    "Diagramming": "Diagrammalar",
+    "Research & Design": "Tadqiqot va Dizayn",
+    "Strategy & Planning": "Strategiya va Rejalashtirish",
+    "Mind Map": "Aqliy xarita",
+    "Concept Map": "Kontseptual xarita",
+    "Online Sticky Notes": "Onlayn eslatmalar",
+    "Flowchart": "Blok-sxema",
+    "Wireframing": "Dastlabki Dizayn",
+    "Miro Academy": "Miro Akademiyasi",
+    "Help Center": "Yordam Markazi",
+    "Blog": "Blog",
+    "Status": "Holat",
+    "Miro Community": "Miro Hamjamiyati",
+    "Miro Professional Network": "Miro Professional Tarmog‘i",
+    "Miro Experts Directory": "Miro Mutaxassislar Katalogi",
+    "Miro Events": "Miro Tadbirlar",
+    "About us": "Biz haqimizda",
+    "Careers 🚀": "Karyera 🚀",
+    "Miro in the News": "Miro Yangiliklarda",
+    "Customer Stories": "Mijoz Hikoyalari",
+    "Pricing": "Narxlar",
+    "Business": "Biznes",
+    "Enterprise": "Katta kompaniyalar",
+    "Consultants": "Konsultantlar",
+    "Education": "Ta’lim",
+    "Startups": "Startaplar",
+    "NPOs": "Notijorat tashkilotlar",
+    "Contact sales →": "Savdo bo‘limi bilan bog‘lanish →",
+    "copyright": "© 2022 Miro",
+    "terms": "Foydalanish shartlari",
+    "privacy": "Maxfiylik siyosati",
+    "cookies": "Cookie sozlamalari",
+    "en": "UZ"
+  }
+}

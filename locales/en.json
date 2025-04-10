@@ -1,0 +1,187 @@
+{
+  "navbar": {
+    "Product": "Product",
+    "Solutions": "Solutions",
+    "Resources": "Resources",
+    "Enterprise": "Enterprise",
+    "Pricing": "Pricing",
+    "EN": "EN",
+    "Contact Sales": "Contact Sales",
+    "Sign up free": "Sign up free"
+  },
+  "hero": {
+    "Take ideas from better to best": "Take ideas from better to best",
+    "Miro is your team's visual platform to connect, collaborate, and create — together.": "Miro is your team's visual platform to connect, collaborate, and create — together.",
+    "Enter your work email": "Enter your work email",
+    "Sign up free": "Sign up free",
+    "Collaborate with your team within minutes": "Collaborate with your team within minutes",
+    "Based on 5149+ reviews": "Based on 5149+ reviews"
+  },
+  "logos": {
+    "Trusted by 45M+ users": "Trusted by 45M+ users"
+  },
+  "h1": "Collaborate without constraints",
+  "collaborate": [
+    {
+      "title": "Free forever",
+      "about": "Our free plan gives you unlimited team members, 3 boards, and 300+ expert-made templates. Signing up with your work email lets you bring in your team faster. See our pricing plans for more features."
+    },
+    {
+      "title": "Easy integrations",
+      "about": "Miro has 100+ powerful integrations with tools you already use like G Suite, Slack, and Jira, so your workflow is seamless. View the full list in our Marketplace ."
+    },
+    {
+      "title": "Security first",
+      "about": "We treat your data like you would — with the utmost care. We follow industry-leading security standards and give you tools to protect intellectual property. Learn more at our Trust Center ."
+    }
+  ],
+  "Section1": {
+    "learn more": "Learn more",
+    "1": {
+      "title": "Work together, wherever you work",
+      "text": "In the office, remote, or a mix of the two, with Miro, your team can connect, collaborate, and co-create in one space no matter where you are."
+    },
+    "2": {
+      "title": "Connect your tools, close your tabs",
+      "text": "Whether you want to edit your Google Docs, resolve Jira issues, or collaborate over Zoom, Miro has 100+ integrations with tools you already use and love."
+    }
+  },
+  "Main Section": {
+    "first comp": {
+      "main": "Built for the way you work",
+      "title": "Brainstorming",
+      "text": "Unleash creative ideas and build on them with the help of sticky notes, images, mind maps, videos, drawing capabilities — the list goes on.",
+      "arr": [
+        "Brainstorming",
+        "Diagramming",
+        "Meetings & Workshops",
+        "Scrum Events",
+        "Mapping",
+        "Research & Design",
+        "Strategic Planning"
+      ]
+    },
+    "second comp": {
+      "main": "Built for all kinds of teams",
+      "ul": {
+        "li1": "Build low-fi wireframes",
+        "li2": "Involve stakeholders in the design process",
+        "li3": "Run engaging design workshops"
+      },
+      "title": "Integrate your favorite tools",
+      "arr": [
+        "UX & Design",
+        "Marketing",
+        "Product Management",
+        "Engineering",
+        "Consultants",
+        "Agile Coaches",
+        "Sales"
+      ]
+    }
+  },
+  "Yellow section": {
+    "title": "Why companies large and small trust Miro",
+    "underline": "Contact Sales to request a demo",
+    "data": [
+      {
+        "title": "ISO",
+        "text": "ISO-27001 enterprise-grade security compliant"
+      },
+      {
+        "title": "#1",
+        "text": "Visual Collaboration Platform on G2"
+      },
+      {
+        "title": "99%",
+        "text": "of the Fortune 100 are customers"
+      },
+      {
+        "title": "1,000+",
+        "text": "community- and expert-built templates"
+      },
+      {
+        "title": "45M+",
+        "text": "users around the world"
+      },
+      {
+        "title": "100+",
+        "text": "integrations with technology partners"
+      }
+    ]
+  },
+  "Cards": {
+    "title": "Loved by the world's best teams",
+    "button": "See all customer stories",
+    "card1": {
+      "text": "“When the pandemic hit, those of us who thrive on in-person collaboration were worried that our creativity and productivity would suffer. Miro was the perfect tool to help us with collaboration, whiteboarding, and retrospectives while remote.”",
+      "job": "Design Team Lead at VMware"
+    },
+    "card2": {
+      "text": "“Miro helps solve one of the major gaps in product design: how to manage tasks across product designers whose projects are in different tools.”",
+      "job": "Head of Design at DocuSign"
+    },
+    "card3": {
+      "text": "“As we used Miro we moved from skepticism to belief to innovation, and now we have a tool that’s at the core of what we do and will continue to extend into the future.”",
+      "job": "Associate Design Director at frog"
+    }
+  },
+  "Sts": {
+    "title": "Join 45M+ users today",
+    "p1": "Start for free — upgrade anytime.",
+    "p2": "Joining as an organization? Contact Sales"
+  },
+  "footer": {
+    "Product": "Product",
+    "Solutions": "Solutions",
+    "Resources": "Resources",
+    "Company": "Company",
+    "Plans and Pricing": "Plans and Pricing",
+    "Online whiteboard": "Online whiteboard",
+    "Apps & Integrations": "Apps & Integrations",
+    "Templates": "Templates",
+    "Miroverse": "Miroverse",
+    "Miro Developer Platform": "Miro Developer Platform",
+    "Miro for Devices": "Miro for Devices",
+    "Security & Compliance": "Security & Compliance",
+    "Accessibility": "Accessibility",
+    "Changelog": "Changelog",
+    "View demo →": "View demo →",
+    "Meetings and Workshops": "Meetings and Workshops",
+    "Brainstorming & Ideation": "Brainstorming & Ideation",
+    "Agile Workflows": "Agile Workflows",
+    "Diagramming": "Diagramming",
+    "Research & Design": "Research & Design",
+    "Strategy & Planning": "Strategy & Planning",
+    "Mind Map": "Mind Map",
+    "Concept Map": "Concept Map",
+    "Online Sticky Notes": "Online Sticky Notes",
+    "Flowchart": "Flowchart",
+    "Wireframing": "Wireframing",
+    "Miro Academy": "Miro Academy",
+    "Help Center": "Help Center",
+    "Blog": "Blog",
+    "Status": "Status",
+    "Miro Community": "Miro Community",
+    "Miro Professional Network": "Miro Professional Network",
+    "Miro Experts Directory": "Miro Experts Directory",
+    "Miro Events": "Miro Events",
+    "About us": "About us",
+    "Careers 🚀": "Careers 🚀",
+    "Miro in the News": "Miro in the News",
+    "Customer Stories": "Customer Stories",
+    "Pricing": "Pricing",
+    "Business": "Business",
+    "Enterprise": "Enterprise",
+    "Consultants": "Consultants",
+    "Education": "Education",
+    "Startups": "Startups",
+    "NPOs": "NPOs",
+    "Contact sales →": "Contact sales →",
+    "copyright": "© 2022 Miro",
+    "terms": "Terms of Service",
+    "privacy": "Privacy Policy",
+    "cookies": "Manage Cookies",
+    "en": "EN"
+  }
+}
